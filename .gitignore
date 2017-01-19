@@ -27,3 +27,20 @@
 *.exe
 *.out
 *.app
+
+# CMake Files
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# Build Directory
+build/
+
+# CLion Project Files
+.idea/
+
+# CLion CMake build directory
+cmake-build-*
